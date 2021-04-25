@@ -1,0 +1,11 @@
+# visual studio
+.vscode/
+
+# python
+/backend/venv/
+__pycache__/
+*.pyc
+
+# react
+node_modules/
+.next/
